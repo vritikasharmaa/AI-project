@@ -2,15 +2,15 @@ This is an AI-based Text-to-Image Generator that allows users to input natural l
 
  Features-
 
-1.Generate images from text prompts
+1. Generate images from text prompts
 
-2.Style selection: Photorealistic, Anime, Abstract
+2. Style selection: Photorealistic, Anime, Abstract
 
-3.Aspect ratio customization (1:1, 16:9, 9:16)
+3. Aspect ratio customization (1:1, 16:9, 9:16)
 
-4.Generate multiple images per prompt
+4. Generate multiple images per prompt
 
-5.Responsive and clean user interface
+5. Responsive and clean user interface
 
  Technologies Used -
 
@@ -21,12 +21,13 @@ This is an AI-based Text-to-Image Generator that allows users to input natural l
 3.AI Model: OpenAI DALL·E / Stable Diffusion / Replicate API / Custom GAN
 
  Demo -
-[Screenshot 2025-04-19 193402]
+[Screenshot 2025-04-19 193402](https://github.com/user-attachments/assets/4d5d8f4a-2400-4595-b522-f1567ebab741)
+
 
  How to Run Locally
 
 # Clone the repository
-git clone https://github.com/yourusername/text-to-image-ai.git
+git clone https://github.com/vritikasharmaa/text-to-image-ai.git
 
 # Navigate to the directory
 cd text-to-image-ai
@@ -40,19 +41,17 @@ OPENAI_API_KEY=your_api_key_here
 # Run the app
 npm start
 
-Future Improvements
-Optional ideas you're planning:
+Future Improvements -
+1. Optional ideas you're planning:
 
-Add login & prompt history
+2. Add login & prompt history
 
-Support image upscaling
+3. Support image upscaling
 
-More model options (e.g., MidJourney integration)
+4. More model options (e.g., MidJourney integration)
 
- Author
+ Author -
  Vritika Sharma
 
- Contributing
-Let others know how they can contribute:
-
+ Contributing -
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
