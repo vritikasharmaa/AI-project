@@ -27,7 +27,7 @@ This is an AI-based Text-to-Image Generator that allows users to input natural l
  How to Run Locally
 
 # Clone the repository
-git clone https://github.com/vritikasharmaa/text-to-image-ai.git
+git clone https://github.com/vritikasharmaa/AI-project.git
 
 # Navigate to the directory
 cd text-to-image-ai
