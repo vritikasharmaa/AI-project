@@ -2,30 +2,26 @@ This is an AI-based Text-to-Image Generator that allows users to input natural l
 
  Features-
 
-Generate images from text prompts
+1.Generate images from text prompts
 
-Style selection: Photorealistic, Anime, Abstract
+2.Style selection: Photorealistic, Anime, Abstract
 
-Aspect ratio customization (1:1, 16:9, 9:16)
+3.Aspect ratio customization (1:1, 16:9, 9:16)
 
-Generate multiple images per prompt
+4.Generate multiple images per prompt
 
-Responsive and clean user interface
+5.Responsive and clean user interface
 
  Technologies Used -
 
-Frontend: React, Tailwind CSS
+1.Frontend: HTML, CSS , JS , React, Tailwind CSS
 
-Backend: Node.js / Flask / FastAPI (choose the one you used)
+2.Backend: Node.js 
 
-AI Model: OpenAI DALL·E / Stable Diffusion / Replicate API / Custom GAN
-
-Others: Axios, React Hooks, dotenv, etc.
+3.AI Model: OpenAI DALL·E / Stable Diffusion / Replicate API / Custom GAN
 
  Demo -
-
-![screenshot]![Screenshot 2025-04-19 193402](https://github.com/user-attachments/assets/ff9f4a72-d1fe-4281-8982-158ddb288dff)
-
+[Screenshot 2025-04-19 193402]
 
  How to Run Locally
 
@@ -44,20 +40,6 @@ OPENAI_API_KEY=your_api_key_here
 # Run the app
 npm start
 
-Folder Structure -
-Show how your files are organized:
-text-to-image-ai/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── styles/
-│   └── App.js
-├── server/
-│   └── app.py
-├── .env.example
-├── package.json / requirements.txt
-└── README.md
 Future Improvements
 Optional ideas you're planning:
 
